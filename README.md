@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+a+database+engine+in+C;Tuning+Oracle+execution+plans;Rendering+3D+worlds+with+OpenGL;Breaking+and+hardening+Linux+systems" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=30&lines=Building+a+database+engine+in+C;Tuning+Oracle+execution+plans;Rendering+3D+worlds+with+OpenGL;Breaking+and+hardening+Linux+systems" alt="Typing animation"/>
 </p>
 
 ```bash
@@ -35,12 +35,14 @@ internships / junior roles · backend · data infrastructure · systems
 
 **Tools** &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
+<!-- Stats hidden: github-readme-stats.vercel.app returns 503. Restore when a reliable source is chosen.
 ## 📊 Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alexisvop&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexisvop&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
 </p>
+-->
 
 ## 🌱 Currently learning
 - WAL, crash recovery and streaming replication in PostgreSQL
